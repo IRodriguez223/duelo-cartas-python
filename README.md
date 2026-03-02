@@ -30,6 +30,7 @@ Além disso, essa base lógica prepara o terreno para eu desenvolver **lógicas 
 - **Cargo Atual:** Supervisor na Droga Raia (Liderança e Gestão de Processos)
 - **Formação:** Graduando em Análise e Desenvolvimento de Sistemas - Univassouras
 - **Objetivo:** Estágio em Desenvolvimento Front-end ou Cyber Segurança
-- **Linkedin:**[Clique aqui](https://www.linkedin.com/in/igor-luciano-rodrigues-b112b926a/)
+- **Linkedin:** [Clique aqui](https://www.linkedin.com/in/igor-luciano-rodrigues-b112b926a/)
 ---
+
 
