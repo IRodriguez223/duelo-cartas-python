@@ -9,15 +9,23 @@ Desenvolvi este simulador de duelo de cartas em Python 3 com o objetivo de aplic
 
 O script simula uma disputa de 10 rodadas entre dois jogadores, onde as cartas são sorteadas aleatoriamente e comparadas através de pesos atribuídos em um dicionário.
 
+
+## 🆕 Atualizações da Versão (V2)
+Nesta versão, o foco foi transformar o script em uma aplicação interativa e resiliente, aplicando conceitos de segurança:
+- **Entrada Dinâmica:** O usuário agora define a quantidade de cartas para o duelo, tornando o simulador flexível.
+- **Resiliência do Sistema:** Implementação de um loop de validação que mantém o programa rodando até que uma entrada válida seja fornecida.
+- **Sanitização de Dados:** Foco em impedir que entradas malformatadas causem o encerramento do script, uma prática essencial em Cyber Segurança.
+
+
 ## 🛠️ Tecnologias e Conceitos Aplicados
 Como estudante de **Análise e Desenvolvimento de Sistemas** na Univassouras, foquei em utilizar recursos que tornassem o meu código robusto, profissional e de fácil manutenção:
 
-- **Dicionários (Hash Maps):** Utilizei para mapear o valor das cartas de forma eficiente, permitindo consultas rápidas de peso.
-- **Tipagem (Type Hinting):** Apliquei para garantir a integridade dos dados e facilitar futuras manutenções e leitura do código por outros desenvolvedores.
-- **Função `zip()`:** Implementei para realizar uma iteração elegante e performática entre as listas de cartas dos dois jogadores.
-- **Modularização:** Dividi o código em funções com responsabilidades únicas e claras (gerar mão, calcular vencedor e exibir resultado).
-- **Entry Point:** Garanti a organização do fluxo de execução com o uso do padrão profissional `if __name__ == "__main__":`.
-
+- **Dicionários (Hash Maps):** Utilizados para mapear o valor das cartas de forma eficiente, permitindo consultas rápidas de peso.
+- **Tratamento de Exceções (`try/except`):** Implementado para garantir a robustez do software, capturando erros de entrada e evitando falhas de execução.
+- **Tipagem (`Type Hinting`):** Aplicada para garantir a integridade dos dados e facilitar futuras manutenções e leitura do código.
+- **Função `zip()`:** Utilizada para realizar uma iteração elegante e performática entre as listas de cartas.
+- **Modularização:** Divisão do código em funções com responsabilidades únicas (gerar mão, calcular vencedor e exibir resultado).
+- **Entry Point:** Organização do fluxo de execução com o padrão profissional `if __name__ == "__main__":`.
 
 
 ## 🛡️ Meu Foco: Cyber Segurança & Front-end
@@ -32,5 +40,6 @@ Além disso, essa base lógica prepara o terreno para eu desenvolver **lógicas 
 - **Objetivo:** Estágio em Desenvolvimento Front-end ou Cyber Segurança
 - **Linkedin:** [Clique aqui](https://www.linkedin.com/in/igor-luciano-rodrigues-b112b926a/)
 ---
+
 
 
